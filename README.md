@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/Scripts-Batch%20%2B%20PowerShell%20%2B%20VBS-5C2D91?style=for-the-badge" alt="Batch + PowerShell + VBS">
   <img src="https://img.shields.io/badge/Architecture-x64%20%7C%20x86-blue?style=for-the-badge" alt="x64 | x86">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License">
-  <a href="https://github.com/Rootyna/SystemWindowsTweaker/commits/main">
-    <img src="https://img.shields.io/github/last-commit/Rootyna/SystemWindowsTweaker?style=for-the-badge&color=purple" alt="Последний коммит">
+  <a href="https://github.com/Rootyna/SystemWindowsTweaker/releases">
+    <img src="https://img.shields.io/github/v/release/Rootyna/SystemWindowsTweaker?style=for-the-badge&color=purple&logo=github" alt="Latest Release">
   </a>
 </p>
 
